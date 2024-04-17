@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amarillo">#FFD6D58E</color>
+    <color name="black">#FF000000</color>
+    <color name="verde">#FF005C53</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">fragmento_estatico_Pocasangre_Bonilla</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_btn_enviar">Enviar datos al fragmento 2</string>
+    <string name="text_fragmento_1">Este es el fragmento 1</string>
+    <string name="text_fragmento_2">Este es el fragmento recibido</string>
+    <string name="text_indicacion_campo">Por favor digite un texto breve</string>
+    <string name="texto_placeholder">Digite un texto aqui</string>
+    <style name="Base.Theme.Fragmento_estatico_Pocasangre_Bonilla" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Fragmento_estatico_Pocasangre_Bonilla" parent="Base.Theme.Fragmento_estatico_Pocasangre_Bonilla"/>
+</resources>

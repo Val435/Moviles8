@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fragmento_estatico_Pocasangre_Bonilla</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_fragmento_1">Este es el fragmento 1</string>
+    <string name="text_indicacion_campo">Por favor digite un texto breve</string>
+    <string name="texto_placeholder">Digite un texto aqui</string>
+    <string name="text_btn_enviar">Enviar datos al fragmento 2</string>
+    <string name="text_fragmento_2">Este es el fragmento recibido</string>
+</resources>

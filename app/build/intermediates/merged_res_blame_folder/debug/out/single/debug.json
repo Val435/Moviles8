@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/layout_fragment_primer_fragmento.xml.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/layout/fragment_primer_fragmento.xml"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/xml_data_extraction_rules.xml.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/layout_fragment_segundo_fragmento.xml.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/layout/fragment_segundo_fragmento.xml"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/drawable_iconogarantiaufg.png.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/drawable/iconogarantiaufg.png"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/xml_backup_rules.xml.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.fragmento_estatico_pocasangre_bonilla.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]

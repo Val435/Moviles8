@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color amarillo
+color black
+color verde
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable iconogarantiaufg
+id btn_boton
+id fragmento1
+id fragmento2
+id imgufg
+id txt_bienvenida
+id txt_indicacion_texto
+id txt_texto_fragmento1
+id txt_texto_recibido
+layout activity_main
+layout fragment_primer_fragmento
+layout fragment_segundo_fragmento
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+string text_btn_enviar
+string text_fragmento_1
+string text_fragmento_2
+string text_indicacion_campo
+string texto_placeholder
+style Base.Theme.Fragmento_estatico_Pocasangre_Bonilla
+style Theme.Fragmento_estatico_Pocasangre_Bonilla
+xml backup_rules
+xml data_extraction_rules
